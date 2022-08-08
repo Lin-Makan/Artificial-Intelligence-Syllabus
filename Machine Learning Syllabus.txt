@@ -1,0 +1,415 @@
+
+
+ Machine Learning Syllabus :
+ ============================
+
+       *** Machine Learning *** :
+           ================
+
+   1. Machine Learning Tutorial open link
+   2. Machine Learning Applications
+   3. Life cycle of Machine Learning
+   4. Install Anaconda & Python
+   5. AI vs Machine Learning
+   6. How to Get Datasets
+   7. Data Preprocessing
+
+     *** Supervised Machine Learning *** :
+         ===========================
+
+  1. Unsupervised Machine Learning
+  2. Supervised vs Unsupervised Learning
+  3. Supervised Learning
+  4. Regression Analysis
+  5. Linear Regression
+  6. Simple Linear Regression
+  7. Multiple Linear Regression
+  8. Backward Elimination
+  9. Polynomial Regression
+
+    *** Classification *** :
+        ==============
+
+  1. Classification Algorithm
+  2. Logistic Regression
+  3. K-NN Algorithm
+  4. Support Vector Machine Algorithm
+  5. Naïve Bayes Classifier
+
+__________________________________________________________________________________
+
+    *** Basic Skills For Machine Learning *** :
+        ================================= 
+           1. Statistics :
+           2. Probability :
+           3. Data Modeling :
+           4. Programming Skills :
+           5. Programming Fundamentals and CS :
+           6. Applying ML Libraries & Algorithms :
+           7. Software Design :
+           8. ML Programming Languages :
+                                        * Python :
+                                        * R :
+                                        * C/C++ :
+
+    *** Prerequisites to Learn Artificial Intelligence and Machine Learning *** :
+        ===================================================================
+
+               
+    *** Mathematics Courses for Machine Learning *** :
+        ========================================
+
+
+    *** Probability and Statistics Books for Machine Learning *** :
+        =====================================================
+
+
+    *** Implement mathematical concepts using real-world data *** :
+        =====================================================
+              1. Eigenvalues And Eigenvectors
+              2. Multivariable Calculus
+              3. Transformation Matrix
+              4. Dimensionality Reduction 
+              5. Principal Component Analysis (PCA)
+              6. Linear Algebra
+              7. Linear Regression
+              8. Python Programming
+              9. Basis (Linear Algebra)
+             10. Vector Calculus
+             11. Gradient Descent
+
+    
+    *** Essential Mathematics for Machine Learning *** :
+        ==========================================
+          1. Linear algebra for Machine Learning :
+          2. Calculus for Machine Learning :
+          3. Probability Theory in Machine Learning :
+          4. Discrete Mathematics : 
+          5. Statistics :
+          6. Algorithm & Optimization :
+          7. Others :
+
+          1. Linear algebra for Machine Learning :
+                                * Topics of Linear Algebra Used in ML -
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                                   (A) Principal Component Analysis (PCA)
+                                   (B) Singular Value Decomposition (SVD)
+                                   (C) Eigen decomposition of a matrix
+                                   (D) LU Decomposition
+                                   (E) QR Decomposition/Factorization
+                                   (F) Symmetric Matrices
+                                   (G) Orthogonalization & Orthonormalization
+                                   (H) Matrix Operations
+                                   (I) Projections
+                                   (J) Eigenvalues & Eigenvectors
+                                   (K) Vector Spaces
+                                   (L) Norms
+
+          2. Calculus for Machine Learning :
+                  * Topics of Multivariate Calculus Are -
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                                       (A) Derivatives
+                                       (B) Divergence
+                                       (C) Curvature
+                                       (D) Quadratic Approximations
+                                       (E) Partial Derivatives
+                                       (F) Vector-Values Functions
+                                       (G) Directional Gradient
+                                       (H) Hessian, Jacobian
+                                       (I) Laplacian and Lagrangian Distribution
+                                        
+                                   
+          3. Probability Theory in Machine Learning :
+                  * Important Probability Concepts -  
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+              (A)  Joint, Marginal, and Conditional Probability,
+              (B)  Probability Distributions (Discrete, Continuous),
+              (C)  Density Estimation
+              (D)  Maximum Likelihood Estimation
+              (E)  Regression with Maximum Likelihood
+              (F)  Bayes Theorem, etc.
+
+          4. Discrete Mathematics :
+            
+
+          5. Statistics :
+                  * Fundamental Concepts of Statistics needed for ML -
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                         (A)  Combinatorics
+                         (B)  Axioms
+                         (C)  Bayes'Bayes' Theorem
+                         (D)  Variance and Expectation
+                         (E)  Random Variables
+                         (F)  Conditional and Joint Distributions
+
+          6. Algorithm & Optimization : 
+                    * Conceptual Knowledge Needed -
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+              (A) Data Structures (Binary Trees, Hashing, Heap, Stack, etc.
+              (B) Dynamic Programming
+              (C) Randomized & Sublinear Algorithm
+              (D) Graphs
+              (E) Gradient/Stochastic Descents
+              (F) Primal-Dual methods
+
+          7. Others :
+__________________________________________________________________________________
+
+    Deep Learning Tutorial for Beginners: Neural Network Basics :
+    =============================================================
+
+     (A) What is Deep Learning?
+         ``````````````````````
+     (B) Deep learning Process :
+         ```````````````````````
+     (C) Classification of Neural Networks :
+         ````````````````````````````````````
+     (D) Types of Deep Learning Networks :
+         ``````````````````````````````````
+     (E) Feed-forward neural networks :
+         ```````````````````````````````
+     (F) Recurrent neural networks (RNNs) : 
+         ```````````````````````````````````
+     (G) Convolutional neural networks (CNN) :
+         ``````````````````````````````````````
+     (H) Reinforcement Learning :
+         `````````````````````````
+     (I) Examples of deep learning applications :
+         `````````````````````````````````````````
+     (J) Why is Deep Learning Important?
+         ````````````````````````````````
+     (K) Limitations of deep learning :
+         ```````````````````````````````
+     (L) Summary :
+         ``````````    
+ 
+
+        (A) What is Deep Learning ?
+            ````````````````````````` 
+             * Deep learning Algorithms are Constructed with Connected Layers :
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                         + First Layer : Input Layer 
+                         + Last Layer : Output Layer
+                         + Layers In Between : Hidden Layers
+
+        (B) Deep learning Process  :
+            `````````````````````````
+             * The Learning Occurs in two Phases -
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          + First Phase :
+                          + Second Phase :
+
+        (C) Classification of Neural Networks :
+            ````````````````````````````````````
+               + Shallow Neural Network :
+               + Deep Neural Network :
+
+        (D) Types of Deep Learning Networks :
+            ``````````````````````````````````
+                  Understand These Key Diagrams Thoroughly -
+                  ------------------------------------------
+                    1. Backfed Input Cell
+                    2. Input Cell
+                    3. Noisy Input Cell
+                    4. Hidden Cell 
+                    5. Probablistic Hidden Cell
+                    6. Spiking Hidden Cell
+                    7. Output Cell
+                    8. Match Input Output Cell
+                    9. Recurrent Cell
+                   10. Memory Cell
+                   11. Different Memory Cell
+                   12. Kernel
+                   13. Convolution or Pool
+ 
+                    Types of Deep Learning Networks -
+                    ---------------------------------
+                      1. Perceptron(P)
+                      2. Feed Forward(FF)
+                      3. Radial Basis Network(RBF)
+                      4. Deep Feed Forward(DFF)
+                      5. Recurrent Neural Networks(RNN)
+                      6. Long/Short Term Memory(LSTM)
+                      7. Gated Recurrent Unit(GRU)
+                      8. Auto Encoder(AE)
+                      9. Variational AE(VAE)
+                     10. Demoising AE(DAE)
+                     11. Sparse AE(SAE)
+
+       (E) Feed-forward neural networks :
+           ```````````````````````````````
+
+       (F) Recurrent neural networks (RNNs) : 
+           ```````````````````````````````````
+             1. How Recurrent neural networks (RNNs) Work -
+                -------------------------------------------
+                  *
+                  *
+                  *
+                  * 
+             2. Common uses of RNN -
+                ---------------------
+                *
+                *
+                *
+                * 
+                *
+                * 
+         
+       (G) Convolutional neural networks (CNN) :
+           ``````````````````````````````````````
+              How Convolutional Neural Networks Work -
+              -----------------------------------------
+                   Example, if the task is to predict an image caption:
+                   *
+                   * 
+                   * 
+                    
+      (H) Reinforcement Learning :
+          `````````````````````````
+            The Most famous Algorithms for Reinforcement Learning :
+            -------------------------------------------------------
+                1. Q-Learning
+                2. Deep Q network
+                3. State-Action-Reward-State-Action (SARSA)
+                4. Deep Deterministic Policy Gradient (DDPG)
+
+     (I) Examples of deep learning applications :
+         `````````````````````````````````````````
+            1. AI in Finance :
+            2. AI in HR :
+            3. AI in Marketing :
+
+     (J) Why is Deep Learning Important?
+         ````````````````````````````````
+
+     (K) Limitations of deep learning :
+         ``````````````````````````````` 
+           1. Data labeling :
+           2. Obtain huge training datasets :
+           3. Explain a problem :
+
+     (L) Summary :
+         ``````````
+          1. Deep Learning Overview: 
+
+    *** Miscellaneous *** :
+        =============
+
+  1. Classification vs Regression
+  2. Linear Regression vs Logistic Regression
+  3. Decision Tree Classification Algorithm
+  4. Random Forest Algorithm
+  5. Clustering in Machine Learning
+  6. Hierarchical Clustering in Machine Learning
+  7. K-Means Clustering Algorithm
+  8. Apriori Algorithm in Machine Learning
+  9. Association Rule Learning
+ 10. Confusion Matrix
+ 12. Cross-Validation 
+ 13. Data Science vs Machine Learning
+ 14. Machine Learning vs Deep Learning
+ 15. Dimensionality Reduction Technique
+ 16. Machine Learning Algorithms
+ 17. Overfitting & Underfitting
+ 18. Principal Component Analysis
+ 19. What is P-Value
+ 20. Regularization in Machine Learning
+ 21. Examples of Machine Learning
+ 22. Semi-Supervised Learning
+ 23. Essential Mathematics for Machine Learning
+ 24. Overfitting in Machine Learning
+ 25. Types of Encoding Techniques
+ 26. Feature Selection Techniques in Machine Learning
+ 27. Bias and Variance in Machine Learning
+ 28. Machine Learning Tools
+ 29. Prerequisites for Machine Learning
+ 30. Gradient Descent in Machine Learning
+ 31. Machine Learning Experts Salary in India
+ 32. Machine Learning Models
+ 33. Machine Learning Books
+ 34. Linear Algebra for Machine learning
+ 35. Types of Machine Learning
+ 36. Feature Engineering for Machine Learning
+ 37. Top 10 Machine Learning Courses in 2021
+ 40. Epoch in Machine Learning
+ 41. Machine Learning with Anomaly Detection 
+ 42. What is Epoch
+ 43. Cost Function in Machine Learning
+ 44. Bayes Theorem in Machine learning
+ 45. Perceptron in Machine Learning
+ 46. Entr opy in Machine Learning
+ 47. Issues in Machine Learning
+ 48. Precision and Recall in Machine Learning
+ 49. Genetic Algorithm in Machine Learning
+ 50. Normalization in Machine Learning
+ 51. Adversarial Machine Learning
+ 52. Basic Concepts in Machine Learning
+ 53. Machine Learning Techniques
+ 54. AutoML
+ 55. Demystifying Machine Learning
+ 56. Challenges of Machine Learning
+ 57. Model Parameter vs Hyperparameter
+ 58. Hyperparameters in Machine Learning
+ 59. Importance of Machine Learning
+ 60. Machine Learning and Cloud Computing
+ 61. Anti-Money Laundering using Machine Learning
+ 62. Data Science Vs. Machine Learning Vs. Big Data
+ 63. Popular Machine Learning Platforms
+ 64. Deep learning vs. Machine learning vs. Artificial Intelligence
+ 67. Machine Learning Application in Defense/Military
+ 68. Machine Learning Applications in Media
+ 69. How can Machine Learning be used with Blockchain
+ 70. Prerequisites to Learn Artificial Intelligence and Machine Learning
+ 71. List of Machine Learning Companies in India
+ 72. Mathematics Courses for Machine Learning
+ 73. Probability and Statistics Books for Machine Learning
+ 74. Risks of Machine Learning
+ 75. Best Laptops for Machine Learning
+ 76. Machine Learning in Finance
+ 77. Lead Generation using Machine Learning
+ 78. Machine Learning and Data Science Certification
+ 79. What is Big Data and Machine Learning
+ 80. How to Save a Machine Learning Model
+ 81. Machine Learning Model with Teachable Machine
+ 82. Data Structure for Machine Learning
+ 83. Hypothesis in Machine Learning
+ 84. Gaussian Discriminant Analysis
+ 85. How Machine Learning is used by Famous Companies
+ 86. Introduction to Transfer Learning in ML
+ 87. LDA in Machine Learning
+ 88. Stacking in Machine Learning
+ 89. CNB Algorithm
+ 90. Deploy a Machine Learning Model using Streamlit Library
+ 91. Different Types of Methods for Clustering Algorithms in ML
+ 92. EM Algorithm in Machine Learning
+ 93. Machine Learning Pipeline
+ 94. Exploitation and Exploration in Machine Learning
+ 95. Machine Learning for Trading
+ 96. Data Augmentation: A Tactic to Improve the Performance of ML
+ 97. Difference Between Coding in Data Science and Machine Learning
+ 98. Data Labelling in Machine Learning
+ 99. Impact of Deep Learning on Personalization
+100. Major Business Applications of Convolutional Neural Network
+101. Mini Batch K-means clustering algorithm
+102. What is Multilevel Modelling
+103. GBM in Machine Learning
+104. Back Propagation through time - RNN
+105. Data Preparation in Machine Learning
+106. Predictive Maintenance Using Machine Learning
+107. NLP Analysis of Restaurant Reviews
+108. What are LSTM Networks
+109. Performance Metrics in Machine Learning
+110. Optimization using Hopfield Network
+111. Data Leakage in Machine Learning
+112. Generative Adversarial Network
+113. Machine Learning for Data Management
+114. Tensor Processing Units
+115. Train and Test datasets in Machine Learning
+116. How to Start with Machine Learning
+117. AUC-ROC Curve in Machine Learning
